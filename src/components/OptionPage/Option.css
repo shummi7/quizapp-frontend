@@ -1,0 +1,62 @@
+.option{
+    width:100%;
+    min-width: 200px;
+    padding-bottom:20px;
+    
+    font-size:20px;
+    
+    background:rgb(37, 37, 37);
+    color:white;
+}
+.gotoprofile{
+    width:120px;
+    height:40px;
+    margin:5px;
+
+    font-size: 18px;
+    border-radius:20px;
+
+    color:rgb(255, 255, 255);
+    background:rgb(77, 56, 172);
+
+    border:none;
+    cursor: pointer;
+    outline: none;
+}
+
+.gotoprofile:hover{
+    background: rgba(114, 238, 43, 0.678);
+}
+.centerHor{
+    flex-wrap:wrap;
+}
+.option_category{
+    /* height:280px; */
+    /* padding:30px; */
+    padding-top: 10px;
+}
+
+.option_difficulty {
+    height:250px;
+    padding:0px 10px;
+    /* background:orange; */ 
+}
+
+
+.start{
+    width:120px;
+    height:40px;
+    border-radius:20px;
+
+    background:rgb(32, 187, 187);
+    color:rgb(68, 64, 64);
+
+    border:none;
+    outline:none;
+    cursor: pointer;
+}
+
+.start:hover{
+    background:rgb(90, 163, 22);
+    color:white;
+}

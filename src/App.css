@@ -1,0 +1,34 @@
+html{
+  background:black;
+}
+.App {
+  text-align: center;
+  user-select: none;
+
+}
+.app_size{
+  width:100vw;
+  height:100vh;
+
+  /* min-width: 400px; */
+  
+  border:20px solid black;
+  border-radius:20px;
+
+  position:absolute;
+  /* top:14px; */
+  left:0;
+  right:0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo{
+  min-width: 200px;
+  background:#353333;
+  color:white;
+  text-align: center;
+  margin:0;
+  padding-top:20px;
+}
+
